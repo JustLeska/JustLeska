@@ -1,6 +1,4 @@
-<h1 align="center">
-Leska
-</h1>
+<h1 align="center"> Leska </h1>
 
 <h4 align="center">
 🚆 UI/UX Designer
