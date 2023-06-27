@@ -8,10 +8,6 @@
 </h4>
 
 <p align="center">
-[More about me here soon]
-</p>
-
-<p align="center">
   <a href="https://www.tiktok.com/@leska_bg" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-purple?style=for-the-badge&logo=tiktok&logoColor=black" style="margin-bottom: 5px;"/>
   </a>
@@ -23,11 +19,11 @@
 
 ---
 
-### 🧰 Tools I use
+<!-- ### 🧰 Tools I use -->
 
-[SOON]
+<!-- TEXT -->
 
-#
+<!-- # -->
 
 ### 🎚️ Stats
 
