@@ -34,7 +34,7 @@ You can hire me for: UI/UX Design • French Translations • Q&A
 
 ### 🎚️ Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JustLeska&theme=transparent&border_radius=5&mode=weekly&card_width=500&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JustLeska&theme=transparent&border_radius=5&mode=weekly&card_width=500&hide_border=true)]
 
 <!--
 **JustLeska/JustLeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
