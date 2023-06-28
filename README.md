@@ -1,7 +1,6 @@
-<p align="center">
-  <a href="https://github.com/JustLeska">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=61&duration=3000&pause=10&color=F78900&center=true&vCenter=true&width=440&height=45&lines=Leska" /></a>
-</p>
+<h1 align="center">
+  Leska
+</h1>
 
 <h4 align="center">
 🚆 UI/UX Designer
