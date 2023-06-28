@@ -12,13 +12,21 @@ UI/UX Design • Game Translations • Q&A
 
 <p align="center">
   <a href="https://www.tiktok.com/@leska_bg" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-purple?style=for-the-badge&logo=tiktok&logoColor=black" style="margin-bottom: 5px;"/>
-  </a>
-  <a href="https://pastebin.com/raw/B8yvCefp" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
   <a href="https://create.roblox.com/talent/creators/715065079" target="_blank">
-    <img src="https://img.shields.io/badge/Talent_Hub-black?style=for-the-badge&logo=roblox&logoColor=white" style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Dev_Forum-0052CC?style=for-the-badge&logo=roblox&logoColor=white" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://create.roblox.com/talent/creators/715065079" target="_blank">
+    <img src="https://img.shields.io/badge/Talent_Hub-%2336465D?style=for-the-badge&logo=roblox&logoColor=white" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://steamcommunity.com/id/leska_steam" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://pastebin.com/raw/B8yvCefp" target="_blank">
+    <img src="https://img.shields.io/badge/justleska-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 </p>
 
