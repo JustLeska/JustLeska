@@ -1,5 +1,5 @@
 <h1 align="center">
-🚆 Leska
+🚆 Leska 
 </h1>
 
 <h4 align="center">
@@ -42,9 +42,8 @@ UI/UX Design • Game Translations • Q&A
 <div align="center">
   <h3>🎚️ Stats</h3>
 <a href="https://github.com/JustLeska" target="_blank">
-  <img src="https://streak-stats.demolab.com?user=JustLeska&theme=transparent&border_radius=5&mode=weekly&card_width=500&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JustLeska&theme=transparent&border_radius=5&mode=weekly&card_width=500&hide_border=true" alt="Recap" />
 </a>
-
 </div>
 
 <!--
