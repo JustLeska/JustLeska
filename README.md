@@ -1,13 +1,13 @@
 <h1 align="center">
-  Leska
+🚆 Leska
 </h1>
 
 <h4 align="center">
-🚆 UI/UX Designer
+🇫🇷 UI/UX Designer 🇫🇷
 </h4>
 
 <p align="center">
-You can hire me for: UI/UX Design • French Translations • Q&A 
+UI/UX Design • Game Translations • Q&A
 </p>
 
 <p align="center">
