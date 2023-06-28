@@ -33,7 +33,10 @@ You can hire me for: UI/UX Design • French Translations • Q&A
 
 <div align="center">
   <h3>🎚️ Stats</h3>
+<a href="https://github.com/JustLeska" target="_blank">
   <img src="https://streak-stats.demolab.com?user=JustLeska&theme=transparent&border_radius=5&mode=weekly&card_width=500&hide_border=true" alt="GitHub Streak" />
+</a>
+
 </div>
 
 <!--
