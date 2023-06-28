@@ -14,7 +14,6 @@ You can hire me for: UI/UX Design • French Translations • Q&A
   <a href="https://www.tiktok.com/@leska_bg" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-purple?style=for-the-badge&logo=tiktok&logoColor=black" style="margin-bottom: 5px;"/>
   </a>
-  <a>
   <a href="https://pastebin.com/raw/B8yvCefp" target="_blank">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
@@ -22,6 +21,7 @@ You can hire me for: UI/UX Design • French Translations • Q&A
     <img src="https://img.shields.io/badge/Talent_Hub-black?style=for-the-badge&logo=roblox&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 </p>
+
 
 ---
 
