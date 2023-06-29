@@ -1,5 +1,5 @@
 <h1 align="center">
-Leska 
+Leska
 </h1>
 
 <h4 align="center">
@@ -67,6 +67,13 @@ UI/UX Design • Game Translations • Q&A
 </a>
 </div>
 
+#
+
+<div align="center">
+<a href="https://github.com/JustLeska" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=justleska" style="margin-bottom: 5px;"/> 😔
+</a>
+  
 <!--
 **JustLeska/JustLeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
