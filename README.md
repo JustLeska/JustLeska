@@ -53,11 +53,11 @@ UI/UX Design • Game Translations • Q&A
 </div>
 
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://img.shields.io/badge/Markdown_(≈80/100 Learnt)-000000?style=for-the-badge&logo=markdown&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
 <a href="https://www.lua.org" target="_blank">
     <img src="https://img.shields.io/badge/Lua_(≈50/100 Learnt)-2C2D72?style=for-the-badge&logo=lua&logoColor=white" style="margin-bottom: 5px;"/>
+</a>
+ <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python_(≈10/100 Learnt)-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
     <img src="https://img.shields.io/badge/C%2B%2B_(≈5/100 Learnt)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 5px;"/>
