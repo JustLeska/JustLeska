@@ -1,11 +1,6 @@
-```
-██╗     ███████╗███████╗██╗  ██╗ █████╗ 
-██║     ██╔════╝██╔════╝██║ ██╔╝██╔══██╗
-██║     █████╗  ███████╗█████╔╝ ███████║
-██║     ██╔══╝  ╚════██║██╔═██╗ ██╔══██║
-███████╗███████╗███████║██║  ██╗██║  ██║
-╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```    
+<h1 align="center">
+Leska
+</H1>  
 
 <h4 align="center">
 🇫🇷 UI/UX Designer 🇫🇷
@@ -52,25 +47,23 @@ UI/UX Design • Game Translations • Q&A
 
 <div align="center">
   <h3>🎚️ Stats</h3>
-<a href="https://github.com/JustLeska" target="_blank">
-  <img src="https://streak-stats.demolab.com?user=JustLeska&theme=transparent&border_radius=5&mode=weekly&card_width=500&hide_border=true" alt="Recap" />
-</a>
 </div>
 
-<div align="center">
-<a href="https://www.lua.org" target="_blank">
-    <img src="https://img.shields.io/badge/Lua_(≈50/100 Learnt)-2C2D72?style=for-the-badge&logo=lua&logoColor=white" style="margin-bottom: 5px;"/>
+``` LUA            █████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░   50 % ``` <a href="https://www.lua.org" target="_blank">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
- <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python_(≈10/100 Learnt)-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px;"/>
+
+``` Python         ███████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   15 % ```  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B_(≈5/100 Learnt)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 5px;"/>
+
+``` C++            ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.0 % ``` <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
-<a href="https://vercel.com/solutions/nextjs" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js_(Really want to learn)-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;"/>
+
+``` Next.js        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   Soon? ``` <a href="https://vercel.com/solutions/nextjs" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;"/>
 </a>
-</div>
 
 #
 
