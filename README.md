@@ -1,5 +1,5 @@
 <h1 align="center">
-🚆 Leska 
+Leska 
 </h1>
 
 <h4 align="center">
