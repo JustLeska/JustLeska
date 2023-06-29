@@ -62,7 +62,7 @@ UI/UX Design • Game Translations • Q&A
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
     <img src="https://img.shields.io/badge/C%2B%2B_(≈5/100 Learnt)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+<a href="https://vercel.com/solutions/nextjs" target="_blank">
     <img src="https://img.shields.io/badge/Next.js_(Really want to learn)-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;"/>
 </a>
 </div>
