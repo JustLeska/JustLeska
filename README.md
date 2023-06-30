@@ -69,7 +69,7 @@ UI/UX Design • Game Translations • Q&A
 
 <div align="center">
 <a href="https://github.com/JustLeska" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=justleska" style="margin-bottom: 5px;"/> (Refresh to see it go up!) (From the 06/29/2023)
+    <img src="https://komarev.com/ghpvc/?username=justleska" style="margin-bottom: 5px;"/> (From the 06/29/2023)
 </a>
   
 <!--
