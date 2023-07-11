@@ -15,7 +15,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 
 <div align="center">
 
-  <h3>🔗 Links</h3>
+  <h3>🔗 Buttons</h3>
 
 <p align="center">
   <a href="https://www.tiktok.com/@leska_bg" target="_blank">
@@ -31,10 +31,6 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 </p>
-
-#
-  
-  <h3>🎛️ Specs</h3>
 
 <p align="center">
   <a href="https://www.nvidia.com" target="_blank">
