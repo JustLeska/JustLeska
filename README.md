@@ -1,13 +1,13 @@
 <!--
 
-Feel free to copy parts of my code but please follow me first 🤗
+Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 
 -->
 
 
 <div align="center">
 <a href="https://github.com/JustLeska" target="_blank">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=JustLeska&data=followers,repositories,stars,commits&theme=darkmode" style="margin-bottom: 5px;"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=JustLeska&data=followers,repositories,stars,commits&theme=darkmode" style="margin-bottom: 5px; width="140"; height="140";"/>
 </a>
 </div> 
 
@@ -57,7 +57,7 @@ Feel free to copy parts of my code but please follow me first 🤗
 
 <div align="center">
 <a href="https://github.com/JustLeska" target="_blank">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,cpp,yaml,html,markdown,bash&theme=darkmode" style="margin-bottom: 5px;"/>
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,cpp,yaml,html,markdown,bash&theme=darkmode&includeNames=true" style="margin-bottom: 5px; width="340"; height="340";"/>
 </a>
 </div>
 
