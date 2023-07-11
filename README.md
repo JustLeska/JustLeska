@@ -7,7 +7,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 
 <div align="center">
 <a href="https://github.com/JustLeska" target="_blank">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=JustLeska&data=followers,repositories,stars,commits&theme=default" style="margin-bottom: 5px; width="150"; height="150";"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=JustLeska&data=followers,repositories,stars,commits&theme=nautilus" style="margin-bottom: 5px; width="150"; height="150";"/>
 </a>
 </div> 
 
@@ -53,7 +53,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 
 <div align="center">
 <a href="https://github.com/JustLeska" target="_blank">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,cpp,yaml,html,markdown,bash&theme=default&includeNames=true" style="margin-bottom: 5px; width="340"; height="340";"/>
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,cpp,yaml,html,markdown,bash&theme=nautilus&includeNames=true" style="margin-bottom: 5px; width="340"; height="340";"/>
 </a>
 </div>
 
