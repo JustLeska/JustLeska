@@ -67,6 +67,7 @@ Leska
 <a href="https://github.com/JustLeska" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=justleska" style="margin-bottom: 5px;"/>
 </a>
+</div>
   
 <!--
 **JustLeska/JustLeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
