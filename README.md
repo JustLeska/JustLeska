@@ -5,14 +5,17 @@ Feel free to copy parts of my code but please follow me first 🤗
 -->
 
 
+<div align="center">
+<a href="https://github.com/JustLeska" target="_blank">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=JustLeska&data=followers,repositories,stars,commits&theme=darkmode" style="margin-bottom: 5px;"/>
+</a>
+</div> 
 
-<h1 align="center">
-Leska
-</H1>  
+#
 
-<h3 align="center"> 
-🇫🇷 UI/UX Designer 🇫🇷 
-</h3>
+<div align="center">
+
+  <h3>🔗 Links</h3>
 
 <p align="center">
   <a href="https://www.tiktok.com/@leska_bg" target="_blank">
@@ -30,8 +33,7 @@ Leska
 </p>
 
 #
-
-<div align="center">
+  
   <h3>🎛️ Specs</h3>
 
 <p align="center">
@@ -50,16 +52,14 @@ Leska
 #
 
 <div align="center">
-  <h3>🎚️ Stats</h3>
+  <h3>🎚️ Skills</h3>
 </div>
 
-```Lua                      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50 % ```
-
-```Python                   ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15 % ```
-
-```C++                      ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.0 % ```
-
-```Next.js                  ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   Soon? ```
+<div align="center">
+<a href="https://github.com/JustLeska" target="_blank">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,cpp,yaml,html,markdown,bash&theme=darkmode" style="margin-bottom: 5px;"/>
+</a>
+</div>
 
 #
 
@@ -68,7 +68,7 @@ Leska
     <img src="https://komarev.com/ghpvc/?username=justleska" style="margin-bottom: 5px;"/>
 </a>
 </div>
-  
+
 <!--
 **JustLeska/JustLeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
