@@ -36,7 +36,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 #
 
 <div align="center">
-  <h3>🎚️ Studying:</h3>
+  <h3>🎚️ Studying</h3>
 </div>
 
 <div align="center">
