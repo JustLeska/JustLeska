@@ -15,7 +15,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 
 <div align="center">
 
-  <h3>🔗 Buttons</h3>
+  <h3>🔗 Links</h3>
 
 <p align="center">
   <a href="https://www.tiktok.com/@leska_bg" target="_blank">
@@ -31,6 +31,24 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 </p>
+</div>
+
+#
+
+<div align="center">
+  <h3>🎚️ Skills</h3>
+</div>
+
+<div align="center">
+<a href="https://github.com/JustLeska" target="_blank">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,cpp,yaml,html,markdown,bash&theme=nautilus&includeNames=false" style="margin-bottom: 5px; width="290"; height="290";"/>
+</a>
+</div>
+
+#
+
+<div align="center">
+  <h3>👻 Specs</h3>
 
 <p align="center">
   <a href="https://www.nvidia.com" target="_blank">
@@ -44,20 +62,6 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
   </a>
 </p>
 </div>
-
-#
-
-<div align="center">
-  <h3>🎚️ Skills</h3>
-</div>
-
-<div align="center">
-<a href="https://github.com/JustLeska" target="_blank">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,cpp,yaml,html,markdown,bash&theme=nautilus&includeNames=false" style="margin-bottom: 5px; width="310"; height="310";"/>
-</a>
-</div>
-
-#
 
 <div align="center">
 <a href="https://github.com/JustLeska" target="_blank">
