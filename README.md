@@ -27,7 +27,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
   <a href="https://create.roblox.com/talent/creators/715065079" target="_blank">
     <img src="https://img.shields.io/badge/Talent_Hub-%2336465D?style=for-the-badge&logo=roblox&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
-  <a href="https://steamcommunity.com/id/leska_steam" target="_blank">
+  <a href="https://steamcommunity.com/id/justleska/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 </p>
