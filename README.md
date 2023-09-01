@@ -18,9 +18,6 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
   <h3>🔗 Links</h3>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@leska_bg" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" style="margin-bottom: 5px;"/>
-  </a>
   <a href="https://devforum.roblox.com/u/justleska/summary" target="_blank">
     <img src="https://img.shields.io/badge/Dev_Forum-0052CC?style=for-the-badge&logo=roblox&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
