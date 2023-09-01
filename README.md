@@ -38,7 +38,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 
 <div align="center">
 <a href="https://github.com/JustLeska" target="_blank">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,cpp,yaml,html,markdown,bash&theme=nautilus&includeNames=false" style="margin-bottom: 5px; width="275"; height="275";"/>
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=lua,yaml,markdown,python,html&theme=nautilus&includeNames=false" style="margin-bottom: 5px; width="275"; height="275";"/>
 </a>
 </div>
 
