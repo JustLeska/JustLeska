@@ -57,7 +57,10 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
     <img src="https://img.shields.io/badge/NVIDIA-RTX_2060_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
   <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank">
-    <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://fedoraproject.org/fr/" target="_blank">
+    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
  <a href="https://www.amd.com/en.html" target="_blank">
     <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600_MPK-ED1C24?style=for-the-badge&logo=amd&logoColor=white" style="margin-bottom: 5px;"/>
