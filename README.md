@@ -6,8 +6,9 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 
 
 <div align="center">
-<a href="https://github.com/JustLeska" target="_blank">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=JustLeska&data=followers,repositories,stars,commits&theme=nautilus" style="margin-bottom: 5px; width="150"; height="150";"/>
+
+<a href="https://discord.com/users/861527653986992158" target="_blank">
+<img src="https://lanyard.cnrad.dev/api/861527653986992158?bg=162235"/>
 </a>
 </div> 
 
