@@ -16,17 +16,11 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 
 <div align="center">
 
-  <h3>🔗 Links</h3>
+  <h3>🔗 Website</h3>
 
 <p align="center">
-  <a href="https://devforum.roblox.com/u/justleska/summary" target="_blank">
-    <img src="https://img.shields.io/badge/Dev_Forum-0052CC?style=for-the-badge&logo=roblox&logoColor=white" style="margin-bottom: 5px;"/>
-  </a>
-  <a href="https://create.roblox.com/talent/creators/715065079" target="_blank">
-    <img src="https://img.shields.io/badge/Talent_Hub-%2336465D?style=for-the-badge&logo=roblox&logoColor=white" style="margin-bottom: 5px;"/>
-  </a>
-  <a href="https://steamcommunity.com/id/justleska/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
+  <a href="https://guns.lol/leska" target="_blank">
+    <img src="https://forthebadge.com/images/badges/check-it-out.svg" style="margin-bottom: 5px;"/>
   </a>
 </p>
 </div>
