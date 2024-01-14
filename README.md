@@ -69,6 +69,8 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 </a>
 </div>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P86J5OI)
+
 <!--
 **JustLeska/JustLeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
