@@ -16,11 +16,11 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 
 <div align="center">
 
-  <h3>🔗 Website</h3>
+  <h3>💖 Support Me</h3>
 
 <p align="center">
-  <a href="https://bento.me/leska" target="_blank">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg" style="margin-bottom: 5px;"/>
+  <a href="https://ko-fi.com/P5P86J5OI" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" style="margin-bottom: 5px;"/>
   </a>
 </p>
 </div>
@@ -68,8 +68,6 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
     <img src="https://komarev.com/ghpvc/?username=justleska" style="margin-bottom: 5px;"/>
 </a>
 </div>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P86J5OI)
 
 <!--
 **JustLeska/JustLeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
