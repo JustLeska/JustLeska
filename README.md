@@ -19,7 +19,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
   <h3>🔗 Website</h3>
 
 <p align="center">
-  <a href="https://guns.lol/leska" target="_blank">
+  <a href="https://bento.me/leska" target="_blank">
     <img src="https://forthebadge.com/images/badges/check-it-out.svg" style="margin-bottom: 5px;"/>
   </a>
 </p>
