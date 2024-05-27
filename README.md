@@ -8,7 +8,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 <div align="center">
 
 <a href="https://guns.lol/leska" target="_blank">
-<img src="https://lanyard.cnrad.dev/api/861527653986992158?bg=162235"/>
+<img src="https://lanyard.cnrad.dev/api/1179438971995037878?bg=162235"/>
 </a>
 </div> 
 
