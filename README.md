@@ -19,12 +19,6 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
   <h3>💖 Support Me</h3>
 
 <p align="center">
-  <a href="https://www.paypal.me/justleska" target="_blank">
-    <img src="https://github.com/andreostrovsky/donate-with-paypal/raw/master/blue.svg" height="60" style="margin-bottom: 5px;"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://ko-fi.com/P5P86J5OI" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="43" style="margin-bottom: 5px;"/>
   </a>
