@@ -26,12 +26,12 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 </div>
 
 <p align="center">
-<a href="https://justleska.github.io/donate-bitcoin/" target="_blank"><img src="https://fr.bitcoin.it/w/images/fr/2/29/BC_Logo_.png" border="0" width="200" height="50" alt="Crypto donate button" title="Donate Bitcoin"></a>
+<a href="https://www.bitcoinqrcodemaker.com" target="_blank"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr" height="300" width="300" border="0" alt="Bitcoin QR code" title="bitcoin:bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr"></a>
 </p>
 
 <p align="center">
 bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr
-</p>
+
 
 #
 
