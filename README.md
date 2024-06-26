@@ -26,7 +26,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 </div>
 
 <p align="center">
-<a href="bitcoin:bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr" target="_blank"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr" height="300" width="300" border="0" alt="Bitcoin QR code" title="bitcoin:bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr"></a>
+<a href="https://github.com/JustLeska" target="_blank"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr" height="300" width="300" border="0" alt="Bitcoin QR code" title="bitcoin:bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr"></a>
 </p>
 
 <p align="center">
