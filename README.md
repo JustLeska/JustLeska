@@ -26,7 +26,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 </div>
 
 <p align="center">
-<a href="https://justleska.github.io/donate-bitcoin/" target="_blank"><img src="https://fr.bitcoin.it/w/images/fr/2/29/BC_Logo_.png" border="0" width="200" height="50" alt="Crypto donate button" title="Donate with Bitcoin"></a>
+<a href="https://justleska.github.io/donate-bitcoin/" target="_blank"><img src="https://fr.bitcoin.it/w/images/fr/2/29/BC_Logo_.png" border="0" width="200" height="50" alt="Crypto donate button" title="Donate Bitcoin"></a>
 </p>
 
 <p align="center">
