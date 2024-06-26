@@ -26,7 +26,8 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 </div>
 
 <p align="center">
-https://coins.github.io/thx/#bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr?label=testLabel&message=testMessage
+  <a href="https://coins.github.io/thx/#bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr?label=Coins%20Project&message=Thank%20you%20for%20your%20contribution!" target="_blank">
+    <img src="https://coins.github.io/thx/logo-color-large-pill-320px.png" height="70" style="margin-bottom: 5px;"/>
   </a>
 </p>
 </div>
