@@ -27,6 +27,8 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 
 <p align="center">
 BTC: bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr
+</p>
+<p align="center">
 SOL: https://p-link.io/2715 (GFRpNK8NQfDYb75wJBWnsjMkwsiMhvVEmgLriPETpK1d)
 
 
