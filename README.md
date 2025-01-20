@@ -29,7 +29,7 @@ Oh hey there! You can come on Discord if you want to talk (@justleska) 😁.
 BTC: bc1qsa4xrx5s8gl3vdhxr8vlvvpfz9htmkzxptejlr
 </p>
 <p align="center">
-  SOL: <a href="https://p-link.io/2784">GFRpNK8NQfDYb75wJBWnsjMkwsiMhvVEmgLriPETpK1d</a>
+  SOL: <a href="https://p-link.io/2784">sjwdHD6rGcgKKgfpmUejHZq75LjgQV8XsLU16sB2BRh (leska.sol)</a>
 
 
 #
